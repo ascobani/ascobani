@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ascobani&layout=compact&count_private=true)](https://github.com/ascobani/github-readme-stats)
 
 
-
+[![wakatime](https://wakatime.com/badge/user/af48ec34-25cb-416e-9992-dc1cddcb3100.svg)](https://wakatime.com/@af48ec34-25cb-416e-9992-dc1cddcb3100)
 
 - 💬 Ask me about **Flutter**
 
