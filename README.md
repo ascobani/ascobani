@@ -19,6 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alisinancobani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ascobani" height="30" width="40" />Ali Sinan COBANI</a>
+<a href="https://www.linkedin.com/in/ali-sinan-cobani-74ab4b264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ascobani" height="30" width="40" />Ali Sinan COBANI</a>
 </p>
 
