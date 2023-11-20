@@ -6,7 +6,9 @@
 
 <div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ascobani&label=Profile%20views&color=0e75b6&style=flat" alt="ascobani" /> </p>
+  
 [![wakatime](https://wakatime.com/badge/user/af48ec34-25cb-416e-9992-dc1cddcb3100.svg)](https://wakatime.com/@af48ec34-25cb-416e-9992-dc1cddcb3100)
+
 </div>
 
 [![ici's GitHub stats](https://github-readme-stats.vercel.app/api?username=ascobani&count_private=true&show_icons=true&theme=dark)](https://github.com/ascobani/github-readme-stats)
