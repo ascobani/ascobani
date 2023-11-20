@@ -2,9 +2,11 @@
 <h1 align="center">Hi 👋, I'm Ali Sinan COBANI</h1>
 <h3 align="center">Front End Developer from Turkey</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ascobani&theme=nord&title=Commit,Repositories,Joined2020)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <div align = "center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=ascobani&theme=nord&title=Commit,Repositories,Joined2020)](https://github.com/ryo-ma/github-profile-trophy)
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ascobani&label=Profile%20views&color=0e75b6&style=flat" alt="ascobani" /> </p>
 
 [![wakatime](https://wakatime.com/badge/user/af48ec34-25cb-416e-9992-dc1cddcb3100.svg)](https://wakatime.com/@af48ec34-25cb-416e-9992-dc1cddcb3100)
