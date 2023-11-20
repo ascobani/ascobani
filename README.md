@@ -4,9 +4,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ascobani&theme=nord&title=Commit,Repositories,Joined2020)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div>
+<div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ascobani&label=Profile%20views&color=0e75b6&style=flat" alt="ascobani" /> </p>
-
 [![wakatime](https://wakatime.com/badge/user/af48ec34-25cb-416e-9992-dc1cddcb3100.svg)](https://wakatime.com/@af48ec34-25cb-416e-9992-dc1cddcb3100)
 </div>
 
